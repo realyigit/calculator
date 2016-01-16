@@ -1,0 +1,16 @@
+{
+  "name": "realyigit/calculator",
+  "description": "calculate without eval",
+  "authors": [
+    {
+      "name": "yigit oztemel",
+      "email": "yigitoztemel@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Calculator\\": "src/"
+    }
+  }
+}
